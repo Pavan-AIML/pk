@@ -41,7 +41,7 @@ avatar: "/assets/img/final_img.jpg"
 round-avatar: true
 
 site-css:
--"/assets/css/custom-styles.css"
+- "/assets/css/custom-styles.css"
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
