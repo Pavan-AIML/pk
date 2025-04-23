@@ -25,7 +25,7 @@ navbar-links:
     - databAIse: "https://www.databai.se/"
     - BMW Group: "https://www.bmwgroup.com/en.html"
     - Carl Zeiss AG: "https://www.zeiss.de/messtechnik/ueber-uns/fertigungsstandorte/oberkochen.html"
-    - Maxplanck: "https://www.mpp.mpg.de/en/about-us/history"
+    - Maxplanck: "https://www.mpp.mpg.de/en/about-us/history/"
     
 
 
@@ -59,7 +59,7 @@ site-css:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "pavanln049@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # ÷\rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: "PavanKumar"
   Linkedin: "Pavan-Kumar"
 
