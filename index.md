@@ -73,4 +73,4 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ## Contact
 
-Feel free to reach out through [Email](pavanln049@gmail.com) or connect with me on [GitHub](https://github.com/Pavan-AIML/) and [LinkedIn](https://www.linkedin.com/in/kumar-pavan/).
+Feel free to reach out through [Email](mailto:pavanln049@gmail.com) or connect with me on [GitHub](https://github.com/Pavan-AIML/) and [LinkedIn](https://www.linkedin.com/in/kumar-pavan/).
