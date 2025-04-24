@@ -57,7 +57,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
   - June 2024 - Sep 2024
 
 - **Intern - Data Science**, ZEISS
-  - Apr 2022 - Sep 2022
+  - Oct 2023 - April 2024
 
 - **Intern - Data Science**, Max-Planck
   - June 2023 - Aug 2023
