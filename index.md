@@ -50,9 +50,6 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ### 💼 Work Experience
 
-- **Master Thesis Student**, Pruna AI & Technical University of Munich
-  - Sep 2024 - Present
-
 - **Working Student - AI Engineer**, DatabAIse 
   - Feb 2025 - March 2025
 
