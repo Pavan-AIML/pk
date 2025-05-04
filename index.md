@@ -27,7 +27,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ## Professional Goals
 
-- Develop robust, scalable software solutions for complex problems
+- Build intelligent, scalable AI/ML solutions that solve real-world problems
 - Bridge the gap between theoretical ML and practical applications
 - Contribute to innovative projects that leverage both traditional software development and AI/ML technologies
 
@@ -35,9 +35,9 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 🌱 Currently, I'm diving deep into:
 
-- Developing agents.
-- Exploring LLMs fine-tuning techniques such as QLoRA
-- Implementing deep learning methods for applications in Spectrum Monitoring
+- Developing intelligent agents for automation and data interaction
+- Fine-tuning Large Language Models (LLMs) using techniques such as QLoRA
+- Building Retrieval-Augmented Generation (RAG) systems and working with multi-agent frameworks
 - Microservices architecture and cloud-native applications
 
 ## My Journey
