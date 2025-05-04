@@ -36,7 +36,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 🌱 Currently, I'm diving deep into:
 
 - Developing agents.
-- Exploring AI model compression and quantization techniques
+- Exploring LLMs fine-tuning techniques such as QLoRA
 - Implementing deep learning methods for applications in Spectrum Monitoring
 - Microservices architecture and cloud-native applications
 
