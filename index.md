@@ -50,7 +50,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ### 💼 Work Experience
 
-- **Working Student - AI Engineer**, DatabAIse 
+- **Intern - AI Engineer**, DatabAIse 
   - Feb 2025 - March 2025
 
 - **Working Student - Data Analyst and Front-End Developer**, BMW Group
