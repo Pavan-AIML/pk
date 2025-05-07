@@ -27,9 +27,10 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ## Professional Goals
 
-- Build intelligent, scalable AI/ML solutions that solve real-world problems
-- Bridge the gap between theoretical ML and practical applications
-- Contribute to innovative projects that leverage both traditional software development and AI/ML technologies
+- Transform raw data into actionable business intelligence through advanced analytics pipelines
+- Design and deploy autonomous AI agents that automate complex workflows and decision processes
+- Develop explainable AI solutions that provide transparent insights from complex datasets
+- Create intelligent systems that continuously learn and adapt to evolving business challenges
 
 ## Current Focus
 
