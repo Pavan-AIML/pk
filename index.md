@@ -25,12 +25,6 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 - Tools: Git, Docker, AWS, Databricks, PowerBI
 - Practices: Agile methodologies, CI/CD, Test-Driven Development
 
-## Professional Goals
-
-- Transform raw data into actionable business intelligence through advanced analytics pipelines
-- Design and deploy autonomous AI agents that automate complex workflows and decision processes
-- Develop explainable AI solutions that provide transparent insights from complex datasets
-- Create intelligent systems that continuously learn and adapt to evolving business challenges
 
 ## Current Focus
 
