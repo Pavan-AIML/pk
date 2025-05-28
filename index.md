@@ -40,7 +40,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 ### 📚 Education
 
 - **MSc Mathematics in Science and Engineering**, Technical University of Munich
-  - Oct 2021 - Present
+
 
 
 ### 💼 Work Experience
