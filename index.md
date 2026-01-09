@@ -53,7 +53,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
   - Feb 2025 - Aug 2025
 
 - **Working Student - Data Engineer**, BMW Group
-  - June 2024 - Sep 2024
+  - June 2024 - Jan 2025
 
 - **Intern - ML Engineer**, ZEISS
   - Oct 2023 - April 2024
