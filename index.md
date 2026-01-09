@@ -50,9 +50,10 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ### 💼 Work Experience
 
-- **Working Student - Munich RE**
+- **Working Student - Process Automation, Munich RE**
   - Sep 2025 - Current
-- **Working Student - Mermec** 
+  - 
+- **Working Student - AI / ML-Ops Engineer, Mermec** 
   - Feb 2025 - Aug 2025
 
 - **Working Student - Data Engineer, BMW Group**
