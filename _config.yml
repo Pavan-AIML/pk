@@ -22,7 +22,9 @@ author: Pavan Kumar
 navbar-links:
   CV: "/assets/pdf/CV.pdf"
   Experiences:
-    - databAIse: "https://www.databai.se/"
+  
+    - Munich RE: "https://careers.munichre.com/en/munichre/"
+    - Mermec: "https://www.mermecgroup.com/"
     - BMW Group: "https://www.bmwgroup.com/en.html"
     - Carl Zeiss AG: "https://www.zeiss.de/messtechnik/ueber-uns/fertigungsstandorte/oberkochen.html"
     - Maxplanck: "https://www.mpp.mpg.de/en/about-us/history/"
