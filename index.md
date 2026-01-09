@@ -52,7 +52,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 - **Working Student - Mermec** 
   - Feb 2025 - Aug 2025
 
-- **Working Student - Data Engineer**, BMW Group
+- **Working Student - Data Engineer, BMW Group**
   - June 2024 - Jan 2025
 
 - **Intern - ML Engineer, ZEISS**
