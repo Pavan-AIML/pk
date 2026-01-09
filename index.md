@@ -45,7 +45,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ### 🎓 Thesis 
 
-- **Neural process implementation for Air Quality forcasting using NASA datasets**, , Technical University of Munich
+- **Neural process implementation for Air Quality forcasting using NASA datasets**, Technical University of Munich
 
 
 ### 💼 Work Experience
