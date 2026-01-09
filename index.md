@@ -43,6 +43,9 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 - **MSc Mathematics in Science and Engineering**, Technical University of Munich
 
+### 🎓 Thesis 
+
+- **Neural process implementation for Air Quality forcasting using NASA datasets**
 
 
 ### 💼 Work Experience
