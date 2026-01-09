@@ -12,9 +12,11 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 💻 I'm passionate about developing innovative software solutions and cutting-edge AI technologies, with interests in:
 
+- Building tools for process automation
 - Application development and scalable software architectures
-- Large Language Models (LLMs)
+- Building AI agents for repetative task automation
 - Large-scale data analytics for data-driven decision making
+
 
 ## Technical Skills
 
@@ -45,16 +47,18 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 ### 💼 Work Experience
 
-- **Intern - AI Engineer**, DatabAIse 
-  - Feb 2025 - March 2025
+- **Working Student - Munich RE**
+  - Sep 2025 - Current
+- **Working Student - Mermec** -  
+  - Feb 2025 - Aug 2025
 
-- **Working Student - Data Analyst and Front-End Developer**, BMW Group
+- **Working Student - Data Engineer**, BMW Group
   - June 2024 - Sep 2024
 
-- **Intern - Data Science**, ZEISS
+- **Intern - ML Engineer**, ZEISS
   - Oct 2023 - April 2024
 
-- **Intern - Data Science**, Max-Planck
+- **Intern - ML Engineer**, Max-Planck
   - June 2023 - Aug 2023
 
 - **Working student - Data Analyst**, Infenion Technologies
