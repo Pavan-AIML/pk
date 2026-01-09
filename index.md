@@ -52,7 +52,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 - **Working Student - Process Automation, Munich RE**
   - Sep 2025 - Current
-  - 
+
 - **Working Student - AI / ML-Ops Engineer, Mermec** 
   - Feb 2025 - Aug 2025
 
