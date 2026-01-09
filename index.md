@@ -49,13 +49,13 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 - **Working Student - Munich RE**
   - Sep 2025 - Current
-- **Working Student - Mermec** -  
+- **Working Student - Mermec** 
   - Feb 2025 - Aug 2025
 
 - **Working Student - Data Engineer**, BMW Group
   - June 2024 - Jan 2025
 
-- **Intern - ML Engineer**, ZEISS
+- **Intern - ML Engineer, ZEISS**
   - Oct 2023 - April 2024
 
 - **Intern - ML Engineer, Max-Planck**
