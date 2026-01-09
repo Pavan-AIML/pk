@@ -58,10 +58,10 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 - **Intern - ML Engineer**, ZEISS
   - Oct 2023 - April 2024
 
-- **Intern - ML Engineer**, Max-Planck
+- **Intern - ML Engineer, Max-Planck**
   - June 2023 - Aug 2023
 
-- **Working student - Data Analyst**, Infenion Technologies
+- **Working student - Data Analyst, Infenion Technologies**
   - Aug 2022 - Feb 2023
 
 
