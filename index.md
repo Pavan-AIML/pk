@@ -12,6 +12,7 @@ subtitle: Mathematics Master's Student passionate about Software Engineering, AI
 
 💻 I'm passionate about developing innovative software solutions and cutting-edge AI technologies, with interests in:
 
+- Spatiotemporal forcasting of AOD and PM2.5 concentrations using Graph Neural Process (Bayesian Graph Neural Networks)
 - Building tools for process automation
 - Application development and scalable software architectures
 - Building AI agents for repetative task automation
